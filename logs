@@ -1,8 +1,5 @@
-# link to binder
-https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier.git/HEAD?filepath=%2Fviola%2Frender%2Femorec2.ipynb
 
+#working binder link
+https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier/3a9cf52e6582b1632102b977bbadb1aecfc59fef
 
-# binder link not working for web deployment
-
-https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier/0de116efdaa1b3180469d19ce21fb08ec5a5dc4e
 
