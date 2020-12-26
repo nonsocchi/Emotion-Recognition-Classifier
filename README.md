@@ -1,4 +1,4 @@
-# Emotion Recognition Classifier
+### Emotion Recognition Classifier
 
 This notebook classifies human facial emotions into 7 classes using [fastai](https://docs.fast.ai/), and [PyTorch](https://pytorch.org/). fastai is a layered API for deep learning; for more information, see [the fastai paper](https://www.mdpi.com/2078-2489/11/2/108) and the [vgg19_bn](https://www.kaggle.com/pytorch/vgg19bn) pre-trained model.
 
