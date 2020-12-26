@@ -7,5 +7,5 @@ The code in the notebooks and python `.py` files is covered by the GPL v2 licens
 Dataset used in this notebook is based on [fer_2013](https://www.kaggle.com/aspiring1/fer2013-images) and can be located at [Google Drive](https://drive.google.com/file/d/1yCYa3IvsvYTkjkl4bvs96pWQfcgOJpxu/view?usp=sharing) 
 
 #### Sources
-[Fastai MOOC](https://course.fast.ai/)
+[Fastai MOOC](https://course.fast.ai/),
 [Fastai Library](https://docs.fast.ai/)
