@@ -9,3 +9,5 @@ Dataset used in this notebook is based on [fer_2013](https://www.kaggle.com/aspi
 #### Sources
 [Fastai MOOC](https://course.fast.ai/),
 [Fastai Library](https://docs.fast.ai/)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier/HEAD?urlpath=%2Fviola%2Frender%2Femorec2.ipynb)
