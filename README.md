@@ -8,5 +8,4 @@ Dataset used in this notebook is based on [fer_2013](https://www.kaggle.com/aspi
 
 #### Sources
 [Fastai MOOC](https://course.fast.ai/)
-
 [Fastai Library](https://docs.fast.ai/)
