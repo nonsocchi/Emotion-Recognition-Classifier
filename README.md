@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier/HEAD?urlpath=%2Fviola%2Frender%2Femorec2.ipynb)
+[![GitHub license](https://img.shields.io/github/license/devnons/Emotion-Recognition-Classifier)](https://github.com/devnons/Emotion-Recognition-Classifier/blob/main/LICENSE)
 
 ### Emotion Recognition Classifier
 
