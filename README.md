@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier/main?filepath=emorec2.ipynb)`emorec2.ipynb`\
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier/vgg19_bn?filepath=emorec3.ipynb)`emorec3.ipynb`\
 [![GitHub license](https://img.shields.io/github/license/devnons/Emotion-Recognition-Classifier)](https://github.com/devnons/Emotion-Recognition-Classifier/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/devnons/Emotion-Recognition-Classifier)](https://github.com/devnons/Emotion-Recognition-Classifier/issues)
 
@@ -8,11 +9,12 @@ This notebook classifies human facial emotions into 7 classes using [fastai](htt
 
 Refer to branches for comparison with [Resnet18](https://pytorch.org/hub/pytorch_vision_resnet/) and [vgg16_bn](https://pytorch.org/hub/pytorch_vision_vgg/) Pre-trained models.
 
-The code in the `notebook files` are covered by the GPL v2 license; see the LICENSE file for details.
+The code in the `notebook` is covered by the GPL v2 license; see the LICENSE file for details.
 
 Dataset used in this notebook is based on [fer_2013](https://www.kaggle.com/aspiring1/fer2013-images) and can be found [here](https://drive.google.com/file/d/12qEtb4Zh0DbcAWc3ibO9-jp5GHkgAkfG/view?usp=sharing) 
 
 #### Sources
 [Fastai MOOC](https://course.fast.ai/),
 [Fastai Library](https://docs.fast.ai/)
+
 
