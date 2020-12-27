@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/devnons-emotion-tion-classifier-82y5mg6l/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devnons/Emotion-Recognition-Classifier/main?filepath=emorec2.ipynb)
 [![GitHub license](https://img.shields.io/github/license/devnons/Emotion-Recognition-Classifier)](https://github.com/devnons/Emotion-Recognition-Classifier/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/devnons/Emotion-Recognition-Classifier)](https://github.com/devnons/Emotion-Recognition-Classifier/issues)
 
