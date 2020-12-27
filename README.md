@@ -11,7 +11,7 @@ Refer to branches for comparison with [Resnet18](https://pytorch.org/hub/pytorch
 
 The code in the `notebook` is covered by the GPL v2 license; see the LICENSE file for details.
 
-Dataset used in this notebook is based on [fer_2013](https://www.kaggle.com/aspiring1/fer2013-images) and can be located at [Google Drive](https://drive.google.com/file/d/1yCYa3IvsvYTkjkl4bvs96pWQfcgOJpxu/view?usp=sharing) 
+Dataset used in this notebook is based on [fer_2013](https://www.kaggle.com/aspiring1/fer2013-images) and can be found [here](https://drive.google.com/file/d/12qEtb4Zh0DbcAWc3ibO9-jp5GHkgAkfG/view?usp=sharing) 
 
 #### Sources
 [Fastai MOOC](https://course.fast.ai/),
