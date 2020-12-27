@@ -6,7 +6,7 @@
 
 This notebook classifies human facial emotions into 7 classes using [fastai](https://docs.fast.ai/), and [PyTorch](https://pytorch.org/). fastai is a layered API for deep learning; for more information, see [the fastai paper](https://www.mdpi.com/2078-2489/11/2/108) and the [vgg19_bn](https://www.kaggle.com/pytorch/vgg19bn) pre-trained model.
 
-Added [Resnet18](https://pytorch.org/hub/pytorch_vision_resnet/) Pre-trained model.
+Refer to branches for comparison with [Resnet18](https://pytorch.org/hub/pytorch_vision_resnet/) and [vgg16_bn](https://pytorch.org/hub/pytorch_vision_vgg/) Pre-trained models.
 
 The code in the `notebook` is covered by the GPL v2 license; see the LICENSE file for details.
 
