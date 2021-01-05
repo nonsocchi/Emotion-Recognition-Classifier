@@ -10,7 +10,9 @@ Refer to branches for comparison with [Resnet18](https://pytorch.org/hub/pytorch
 
 The code in the `notebook` is covered by the GPL v2 license; see the LICENSE file for details.
 
-NB: fastai v1 currently supports Linux only, and requires PyTorch v1 and Python 3.6 or later. Windows support is at an experimental stage: it should work fine but it's much slower and less well tested.
+NB: fastai v1 currently supports Linux only, and requires PyTorch v1 and Python 3.6 or later. 
+
+Windows support is at an experimental stage: it should work fine but it's much slower and less well tested.
 
 Dataset used in this notebook is based on [fer_2013](https://www.kaggle.com/aspiring1/fer2013-images) and can be found [here](https://drive.google.com/file/d/12qEtb4Zh0DbcAWc3ibO9-jp5GHkgAkfG/view?usp=sharing) 
 
